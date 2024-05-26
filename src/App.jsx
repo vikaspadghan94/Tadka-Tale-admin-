@@ -10,7 +10,7 @@ import 'react-toastify/dist/ReactToastify.css';
 
 const App = () => {
 
-  const url = "https://tadka-tale-backend.onrender.com/";
+  const url = "https://tadka-tale-backend.onrender.com";
 
   return (
     <div>
